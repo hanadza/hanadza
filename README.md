@@ -7,4 +7,4 @@ Saya saat ini masih berkuliah S1 Informatika di Universitas Siliwangi, Tasikmala
 Fokus: Rekayasa Perangkat Lunak, Interaksi Manusia & Komputer.<br>
 Aktif dalam Komunitas: *Informatics Super Inspirative Design (INSIDE)*.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/aditya-ihsan-maulana-531516397)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/aditya-ihsan-maulana-531516397) ku ya.
