@@ -42,7 +42,6 @@ Currently exploring the intersection of **web development** and **AI Engineering
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanadza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanadza&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
