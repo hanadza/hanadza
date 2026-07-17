@@ -48,14 +48,6 @@ Currently diving deep into **AI & Data Engineering**, **web development**, and *
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanadza&layout=compact&theme=tokyonight&hide_border=true" alt="Hanadza Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ihsan-maulana-531516397)
